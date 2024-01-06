@@ -5,7 +5,7 @@ const CONTACT = () => {
         <div className="Page">
             <div className="info contact">
             <div className="title">
-                <h1>CONTACT </h1><h1 className=" us"> US</h1>
+                <h1 id="contact">CONTACT </h1><h1 className=" us"> US</h1>
                 </div>
                 <div className="info hstry contactinf">
                 <p>Contact No. 09561458085</p>
