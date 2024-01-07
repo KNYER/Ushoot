@@ -5,7 +5,7 @@ import GLAM from "./serviceComponents/glam";
 
 const SERVICES = () => {
     return ( 
-        <div className="Page service">
+        <div className="Page service" id="service">
             <div className="slide">
             <SOLO />
             <DUO />

@@ -6,7 +6,7 @@ import GIRLS_IMAGES from "./homeComponents/imageGirls";
 import TRIANGLE from "./homeComponents/triangle";
 const HOME = () => {
     return ( 
-      <div>
+      <div id="home">
         <NAVBAR />
         <div className="Page">
           <SLOGAN />

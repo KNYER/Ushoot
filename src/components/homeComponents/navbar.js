@@ -12,7 +12,9 @@ const NAVBAR = () => {
                 <img className="ushootLogo" src= {Images.logo}></img>
             </div>    
             <nav ref={navRef} className="nav-menu">
+                <a href="#home">home</a>
                 <a href="#about">about</a>
+                <a href="#service">service</a>
                 <a href="#contact">contact</a>
                
             </nav>

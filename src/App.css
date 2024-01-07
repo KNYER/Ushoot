@@ -31,15 +31,15 @@
     overflow: hidden;
 }
 header{
-    width: 98%;
+    width: 95%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
     font-weight: bold;
     height: 5%;
-    padding: 0 .5rem;
+    padding: -2rem;
     background-color: transparent;
-    color: var(--textColor);
+    color:#B33638 ;
     position:absolute;
     z-index: 2;
   }
@@ -65,8 +65,9 @@ header{
   
   nav a {
     margin: 0 20px;
-    color: var(--textColor);
+    color:  #545454;
     text-decoration: none;
+    padding: 2%;
   }
   
   

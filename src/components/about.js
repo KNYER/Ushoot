@@ -1,10 +1,10 @@
 const ABOUT = () => {
     return ( 
-        <div className="Page about">
+        <div className="Page about" id="about">
             <div className="containerFlex">
                 <div className="abt">
                 <div className="title abtus">
-                <h1 id="about">ABOUT </h1><h1 className=" us"> US</h1>
+                <h1 >ABOUT </h1><h1 className=" us"> US</h1>
                 </div>
                 <div className="info hstry">
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor aliquam nulla facilisi cras. Morbi tempus iaculis urna id volutpat lacus laoreet non. Nunc sed velit dignissim sodales. Tellus orci ac auctor augue mauris augue neque gravida in. Molestie a iaculis at erat. Sit amet risus nullam eget. Eu scelerisque felis imperdiet proin fermentum. Facilisis sed odio morbi quis. Semper auctor neque vitae tempus quam pellentesque nec nam aliquam. Pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Scelerisque eu ultrices vitae auctor eu augue ut lectus arcu. Congue eu consequat ac felis donec et odio pellentesque diam. Diam sollicitudin tempor id eu nisl. Proin sed libero enim sed faucibus. Mi eget mauris pharetra et.</p>
