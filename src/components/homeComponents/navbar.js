@@ -1,5 +1,6 @@
 import { useRef } from "react";
 import Images from "../../assets";
+import {FaBars,FaTimes} from "react-icons/fa";
 const NAVBAR = () => {
     const navRef = useRef();
     const showNavbar = () => {
@@ -16,8 +17,13 @@ const NAVBAR = () => {
                 <a href="#about">about</a>
                 <a href="#service">service</a>
                 <a href="#contact">contact</a>
-               
+                <button className="nav-btn nav-closbtn" onClick={showNavbar}>
+                <FaTimes/>
+            </button>
             </nav>
+            <button className="nav-btn" onClick={showNavbar}>
+                <FaBars/>
+            </button>
             </header>
         </div>
      );
