@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ushoot/static/css/main.9f0a98da.css",
-    "main.js": "/Ushoot/static/js/main.67878407.js",
+    "main.css": "/Ushoot/static/css/main.fbdc280c.css",
+    "main.js": "/Ushoot/static/js/main.61a319da.js",
     "static/media/girl1.jpg": "/Ushoot/static/media/girl1.3cc15c128cdb471176c6.jpg",
     "static/media/duo2.jpg": "/Ushoot/static/media/duo2.4dc12803e42687c493ea.jpg",
     "static/media/solo2.jpg": "/Ushoot/static/media/solo2.06058b21aadbb10b09f6.jpg",
@@ -18,11 +18,11 @@
     "static/media/logo.png": "/Ushoot/static/media/logo.4a70351e6b742b212040.png",
     "static/media/logo.svg": "/Ushoot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Ushoot/index.html",
-    "main.9f0a98da.css.map": "/Ushoot/static/css/main.9f0a98da.css.map",
-    "main.67878407.js.map": "/Ushoot/static/js/main.67878407.js.map"
+    "main.fbdc280c.css.map": "/Ushoot/static/css/main.fbdc280c.css.map",
+    "main.61a319da.js.map": "/Ushoot/static/js/main.61a319da.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f0a98da.css",
-    "static/js/main.67878407.js"
+    "static/css/main.fbdc280c.css",
+    "static/js/main.61a319da.js"
   ]
 }
