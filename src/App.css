@@ -41,6 +41,7 @@ header{
     background-color: transparent;
     color:#B33638 ;
     position:absolute;
+    overflow: hidden;
     z-index: 2;
   }
 
@@ -464,6 +465,13 @@ header{
     }
     .map{
       visibility: hidden;
+    }
+    .addon ul{
+      font-size: 0.9rem;
+    }
+    .hstry{
+      font-size: 0.7rem;
+      padding-bottom: 10%;
     }
   }
 
